@@ -14,4 +14,6 @@ Since, the focus is shader development and response in certain environments, her
 
 _**Note: Will periodically update README as the the project progresses.**_
 
+**Put on hold until further notice**
+
 
