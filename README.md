@@ -15,4 +15,6 @@ Since, the focus is shader development and response in certain environments, her
 _**Note: Will periodically update README as the the project progresses.**_
 
 **Put on hold until further notice**
-- **There is a .gitignore file tied to a UnityLockFile in the Temp folder when Unity is open. Need to figure how to eliminate it. It block pushing/committing when Unity is open. If tried, the temp file needs to be placed as an ignore file.**
+- **There is a .gitignore file tied to a UnityLockFile in the Temp folder when Unity is open.**
+- **Need to figure how to eliminate it and blocks pushing/committing.**
+  - **If tried, the temp file needs to be placed as an ignore file.**
